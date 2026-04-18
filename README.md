@@ -1,0 +1,1 @@
+Erstelle eine App für Wissensmanagement und toDo Listen, Es soll Platz für einen integrierten Google Kalender sein. Ich möchte geheime Einträge mit einem extra Passwort versehen können. Sie sollte ansprechend und modern aussehen. 
