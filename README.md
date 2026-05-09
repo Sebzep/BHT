@@ -26,4 +26,4 @@ BwieBirnane
 ## Pull Request
 Zusätzlich wurde ein Pull Request im Repository `edlich/education` erstellt.
 Pull Request:
-[https://github.com/edlich/education/pull/PR-NUMMER](https://github.com/edlich/education/pull/605)
+[https://github.com/edlich/education/pull/605](https://github.com/edlich/education/pull/605)
